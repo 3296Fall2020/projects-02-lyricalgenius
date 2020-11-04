@@ -1,6 +1,6 @@
 # Lyrical Genius
 
-### <a href="https://trello.com/b/JYVoySYk/lyrical-genius-application">Trello Board</a>
+### <a href="https://github.com/3296Fall2020/projects-02-lyricalgenius/projects/1">Project Board</a>
 
 ### Team Members: 
 - Johnny Gangoo
