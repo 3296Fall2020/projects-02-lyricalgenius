@@ -1,0 +1,10 @@
+.ListItemLyrics:hover{
+    box-shadow: 0 4px 8px 0 rgba(38, 38, 38, 38);
+    transition: 0.2s;
+    background-color: #DCE8EE;
+    transform: scale(1.1);
+}
+
+.changeColor {
+    background-color: rgb(152, 193, 217);
+}

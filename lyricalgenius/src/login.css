@@ -1,0 +1,65 @@
+#back{
+    height: 100vh;
+    width: 100%;
+    background-image: url('./images/loginimage.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    overflow: scroll;
+}
+
+.form-field{
+    width: 80%;
+    border-radius: 40px;
+    position: relative;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding-left:20px;
+}
+
+#register{
+    position: relative;
+    padding-top: 100px;
+}
+
+#main{
+    position: relative;
+    background: rgba(41, 50, 65, 0.8);
+    width: 30%;
+    min-width: 300px;
+    margin: 0 auto;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+#logo-img{
+    padding-right: 100px;
+    margin: 0 auto;
+    padding-top: 200px;
+    width: 70%;
+}
+
+label{
+    color: white;
+    font-size: 20px;
+}
+
+.error-message{
+    color: red;
+}
+
+.toggle-span{
+    color: white;
+}
+
+#submit-button{
+    width: 120px;
+    margin-top: 10px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    background: transparent;
+}

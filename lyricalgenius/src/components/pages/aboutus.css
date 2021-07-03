@@ -1,0 +1,27 @@
+.icon {
+    max-width: 40px;
+}
+
+.darkbackground {
+    background-color: #293241 !important;
+}
+
+.textcontainer {
+    background-color: #293241 !important;
+    margin-bottom: 40px;
+    border-color: #ee6c4d;
+    border: 10px;
+}
+
+.aboutuslargetext {
+    color: #ee6c4d;
+}
+
+.aboutussmalltext {
+    color: white;
+    padding: 3px;
+}
+
+.job {
+    color: white !important;
+}

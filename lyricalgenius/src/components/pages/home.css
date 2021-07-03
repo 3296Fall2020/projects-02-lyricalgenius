@@ -1,0 +1,46 @@
+.hero-image {
+    background-image: url("../../images/heroimage.png");
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+  }
+
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  #trendingbutton {
+    border-color: #293241 ;
+    color: #ee6c4d  ;
+    background-color: #293241 ;
+  }
+
+#homeheader {
+    padding: 0px !important;
+}
+
+.home {
+    background-color: #293241;
+    min-width: 70px;
+    
+}
+
+.homerow {
+    background-color: #293241;
+}
+
+.homelargetext {
+    color: #ee6c4d;
+}
+
+.homesmalltext {
+    color: white !important;
+}
